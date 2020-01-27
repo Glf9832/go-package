@@ -1,3 +1,6 @@
 [submodule "golang.org/x/net"]
 	path = golang.org/x/net
 	url = git@github.com:golang/net.git
+[submodule "golang.org/x/tools"]
+	path = golang.org/x/tools
+	url = git@github.com:golang/tools.git
