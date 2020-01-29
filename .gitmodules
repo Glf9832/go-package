@@ -4,3 +4,9 @@
 [submodule "golang.org/x/tools"]
 	path = golang.org/x/tools
 	url = git@github.com:golang/tools.git
+[submodule "google.golang.org/grpc"]
+	path = google.golang.org/grpc
+	url = git@github.com:grpc/grpc-go.git
+[submodule "github.com/golang/protobuf"]
+	path = github.com/golang/protobuf
+	url = git@github.com:golang/protobuf.git
